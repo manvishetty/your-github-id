@@ -12,7 +12,7 @@ INSTRUCTIONS:
 
 <!-- Header -->
 <h1 align="center">
-  Hi there! 👋 I'm <!-- TODO: Your first name here --> Gauresh
+  Hi there! 👋 I'm <!-- TODO: Your first name here --> Manvi Shetty
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
@@ -23,7 +23,7 @@ TODO:
   Docs: https://komarev.com/ghpvc/
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaureshpai&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=manvishetty&style=flat-square&color=blue" alt="Profile views">
 </p>
 
 <!--
