@@ -32,7 +32,7 @@ TODO:
 - If you don't have one, just remove that badge
 -->
 <p align="center">
-  <a href="www.linkedin.com/in/manvishetty"><!-- TODO: Your LinkedIn URL -->
+  <a href="https://linkedin.com/in/manvishetty"><!-- TODO: Your LinkedIn URL -->
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/hseruag"><!-- TODO: Your Twitter/X URL (or remove) -->
