@@ -28,20 +28,14 @@ TODO:
 
 <!--
 TODO:
-- Replace all links (LinkedIn, Twitter, Portfolio) with YOUR real links
+- Replace all links (LinkedIn) with YOUR real links
 - If you don't have one, just remove that badge
 -->
 <p align="center">
-  <a href="https://linkedin.com/in/manvishetty"><!-- TODO: Your LinkedIn URL -->
+  <a href="https://linkedin.com/in/manvishetty"><!-- TODO: Your LinkedIn URL -->www.linkedin.com/in/manvi-shetty-841549392
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/hseruag"><!-- TODO: Your Twitter/X URL (or remove) -->
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://gauresh.vercel.app"><!-- TODO: Your portfolio URL (or GitHub profile link) -->
-    <img src="https://img.shields.io/badge/-Portfolio-E34F26?style=flat-square" alt="Portfolio">
-  </a>
-</p>
+ 
 
 ---
 
